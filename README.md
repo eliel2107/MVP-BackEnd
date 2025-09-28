@@ -1,4 +1,4 @@
-#  API de Gestão de Ativos de TI 资产管理
+#  API de Gestão de Ativos de TI 
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.3-black?style=for-the-badge&logo=flask&logoColor=white)
